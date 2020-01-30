@@ -1,0 +1,18 @@
+B =
+ 
+[ Il1 + Il2 + Im2 + Im1*kr1^2 + ml2*(2*sin(q1) + l2*sin(q1 + q2))*(2*sin(conj(q1)) + l2*sin(conj(q1) + conj(q2))) + 4*mm2*cos(conj(q1))*cos(q1) + 4*mm2*sin(conj(q1))*sin(q1) + ml2*(2*cos(q1) + l2*cos(q1 + q2))*(2*cos(conj(q1)) + l2*cos(conj(q1) + conj(q2))) + l1^2*ml1*cos(conj(q1))*cos(q1) + l1^2*ml1*sin(conj(q1))*sin(q1), Il2 + Im2*kr2 + l2*ml2*cos(conj(q1) + conj(q2))*(2*cos(q1) + l2*cos(q1 + q2)) + l2*ml2*sin(conj(q1) + conj(q2))*(2*sin(q1) + l2*sin(q1 + q2))]
+[                                                                                                                                                                                                                                    ml2*cos(q1 + q2 - conj(q1) - conj(q2))*l2^2 + 2*ml2*cos(q1 + q2 - conj(q1))*l2 + Il2 + Im2*kr2,                                                                                 Im2*kr2^2 + ml2*cos(q1 + q2 - conj(q1) - conj(q2))*l2^2 + Il2]
+ 
+ 
+C =
+ 
+[                                                                                                  -l2*ml2*q2_dot*(sin(conj(q1) - q1 + conj(q2)) + sin(q1 + q2 - conj(q1))), - l2*ml2*q1_dot*sin(q1 + q2 - conj(q1)) - l2*ml2*q1_dot*sin(conj(q1) - q1 + conj(q2)) - 2*l2*ml2*q2_dot*sin(conj(q1) - q1 + conj(q2))]
+[ l2*ml2*q1_dot*sin(q1 + q2 - conj(q1)) - l2*ml2*q2_dot*sin(q1 + q2 - conj(q1)) + l2*ml2*q1_dot*sin(conj(q1) - q1 + conj(q2)) + l2*ml2*q2_dot*sin(conj(q1) - q1 + conj(q2)),                                                                                                                                     0]
+ 
+ 
+G =
+ 
+ 0
+ 0
+ 
+>> 
