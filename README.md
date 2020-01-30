@@ -14,24 +14,24 @@ A few screenshots of the toolbox are provided below to get an idea about how the
 
 1. Tab 1) Rotation Animations
 
-<img src="screenshots/parta_3.png" width="820" height="248" />
+<img src="screenshots/parta_3.png" />
 
 2. Tab 2) Robot Creation and Kinematics
 
-<img src="screenshots/partz_3.PNG" width="820" height="248" />
+<img src="screenshots/partz_3.PNG" />
 
 3. Tab 3) Differential Kinematics and Dynamics
 
-<img src="screenshots/partz_11.PNG" width="820" height="248" />
+<img src="screenshots/partz_11.PNG" />
 
 Examples of a created robots and their workspace plots:
 
 1. Two Link Planar
-<img src="screenshots/partb_1.png" width="820" height="248" />
-<img src="screenshots/partb_5.png" width="820" height="248" />
+<img src="screenshots/partb_1.png" />
+<img src="screenshots/partb_5.png" />
 
 2. Three Link
 
-<img src="screenshots/partz_1.png" width="820" height="248" />
-<img src="screenshots/partz_2.png" width="820" height="248" />
+<img src="screenshots/partz_1.png" />
+<img src="screenshots/partz_2.png" />
 
